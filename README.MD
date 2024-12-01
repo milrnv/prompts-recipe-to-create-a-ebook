@@ -1,6 +1,6 @@
 
 
-# Projeto EBOOK Gerado por I.A.s
+# PYTHON RELOADED: Quebre os Limites do Código
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
